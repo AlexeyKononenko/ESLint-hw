@@ -1,0 +1,28 @@
+{
+  "name": "game",
+  "version": "1.0.0",
+  "description": "game 3 part",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lint": "eslint ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AlexeyKononenko/ESLint-hw.git"
+  },
+  "keywords": [
+    "game"
+  ],
+  "author": "AlexeyKononenko",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AlexeyKononenko/ESLint-hw/issues"
+  },
+  "homepage": "https://github.com/AlexeyKononenko/ESLint-hw#readme",
+  "devDependencies": {
+    "eslint": "^8.48.0",
+    "eslint-config-airbnb-base": "^15.0.0",
+    "eslint-plugin-import": "^2.28.1"
+  }
+}
